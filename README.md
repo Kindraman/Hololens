@@ -8,6 +8,7 @@ LLuvia de Ideas:
 *Casa del terror - 
 *Experiencia: - benji -
 *Simulacion de catastrofes naturales -
-*Ser un cavernicola (exploracion de cuevas) -
+*Ser un cavernicola (exploracion de cuevas)
+*Laberinto VR Tipo Maze Runner  
 
 hola que ase 

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D11F55E1-FC14-FA10-05B3-AB5B4A4300C5}") = "elPrimero", "Assembly-CSharp-firstpass.csproj", "{D6950EB4-4F15-A4DE-5FAA-274408639A1D}"
+EndProject
+Project("{D11F55E1-FC14-FA10-05B3-AB5B4A4300C5}") = "elPrimero", "Assembly-CSharp-Editor.csproj", "{059EB070-DB9D-21A6-AF72-980874576FE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6950EB4-4F15-A4DE-5FAA-274408639A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6950EB4-4F15-A4DE-5FAA-274408639A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6950EB4-4F15-A4DE-5FAA-274408639A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6950EB4-4F15-A4DE-5FAA-274408639A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059EB070-DB9D-21A6-AF72-980874576FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059EB070-DB9D-21A6-AF72-980874576FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059EB070-DB9D-21A6-AF72-980874576FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059EB070-DB9D-21A6-AF72-980874576FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

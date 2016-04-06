@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BD5CA109-537B-CF6E-0E37-7197F629BDA2}") = "Trampero", "Assembly-CSharp-firstpass.csproj", "{9153AD88-D0DC-1396-5B22-455E317D68BB}"
+EndProject
+Project("{BD5CA109-537B-CF6E-0E37-7197F629BDA2}") = "Trampero", "Assembly-CSharp.csproj", "{5266E209-F4E0-0167-EC54-529CA5337ADA}"
+EndProject
+Project("{BD5CA109-537B-CF6E-0E37-7197F629BDA2}") = "Trampero", "Assembly-CSharp-Editor.csproj", "{33FBEC97-0A36-B182-8BD7-9835062E5382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9153AD88-D0DC-1396-5B22-455E317D68BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9153AD88-D0DC-1396-5B22-455E317D68BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9153AD88-D0DC-1396-5B22-455E317D68BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9153AD88-D0DC-1396-5B22-455E317D68BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5266E209-F4E0-0167-EC54-529CA5337ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5266E209-F4E0-0167-EC54-529CA5337ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5266E209-F4E0-0167-EC54-529CA5337ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5266E209-F4E0-0167-EC54-529CA5337ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FBEC97-0A36-B182-8BD7-9835062E5382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FBEC97-0A36-B182-8BD7-9835062E5382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FBEC97-0A36-B182-8BD7-9835062E5382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FBEC97-0A36-B182-8BD7-9835062E5382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,14 +1,10 @@
 # Hololens
-proyecto sueño
-http://www.mazegenerator.net/    <- generador de laberintos
 
-LLuvia de Ideas:
+Trampas seleccionadas!
 
-*Crear un parque de diversion virtual - 
-*Casa del terror - 
-*Experiencia: - benji -
-*Simulacion de catastrofes naturales -
-*Ser un cavernicola (exploracion de cuevas)
-*Laberinto VR Tipo Maze Runner  
-
-hola que ase 
+Toño: "Cilindro de los caidos"
+Manu: "Aplasta sueños"
+Maka: "El verdugo"
+Cesar: "Pinchos de la perdición"
+Gustavo: "Pantano de los condenados"
+Nauduan: "Pasaje al abismo"

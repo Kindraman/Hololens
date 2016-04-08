@@ -2,7 +2,7 @@
 
 Trampas seleccionadas!
 
-Toño: "Cilindro de los caidos"
+Toño: "Cilindro de los caidos"\n
 Manu: "Aplasta sueños"
 Maka: "El verdugo"
 Cesar: "Pinchos de la perdición"
